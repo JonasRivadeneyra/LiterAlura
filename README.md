@@ -27,6 +27,21 @@
 | Jackson              | Procesamiento de JSON                        | 2.15        |
 | Git                  | Control de versiones                         | -           |
 
+## 📌 Capturas de Pantalla
+### Menú Principal
+![img.png](img.png)
+## 📌 Capturas de Pantalla
+### Libros Almacenados
+![img_1.png](img_1.png)
+
+
+
+
+
+
+
+
+
 ## 📌 Metodología Ágil (Trello)
 El proyecto se gestionó con **metodología ágil** usando un tablero Trello:
 - **Listo para iniciar**: Tareas pendientes.
@@ -34,16 +49,16 @@ El proyecto se gestionó con **metodología ágil** usando un tablero Trello:
 - **Pausado**: Tareas detenidas temporalmente.
 - **Concluido**: Elementos finalizados.
 
-*(Incluye captura de tu tablero Trello si es posible)*.
+![trello.png](assets/trello.png)
+
 
 ## 🚀 Instalación y Ejecución
 ### Requisitos Previos
 - Java 21
 - PostgreSQL 15
 - Maven
-
+![img_2.png](img_2.png)
 ### Pasos:
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/literalura.git
-   cd literalura
+   git@github.com:JonasRivadeneyra/LiterAlura.git
