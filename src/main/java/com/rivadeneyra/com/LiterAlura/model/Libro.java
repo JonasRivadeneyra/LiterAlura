@@ -24,8 +24,3 @@ public class Libro {
         this.lenguaje = Idioma.fromString(datosLibro.idiomas().toString().split(",")[0].trim());
         this.numero_descargas = datosLibro.numero_descargas();
     }
-
-
-
-
-
