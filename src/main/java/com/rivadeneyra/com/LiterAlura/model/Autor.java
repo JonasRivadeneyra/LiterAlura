@@ -2,7 +2,6 @@ package com.rivadeneyra.com.LiterAlura.model;
 
 
 import jakarta.persistence.*;
-
 import java.util.List;
 
 

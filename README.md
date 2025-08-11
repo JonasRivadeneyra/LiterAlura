@@ -1,7 +1,6 @@
 # 📚 LiterAlura: Catálogo de Libros en Java
 
-![Banner LiterAlura](https://via.placeholder.com/1200x400?text=Banner+LiterAlura+API+%2B+PostgreSQL+%2B+Spring+Boot)  
-*(Reemplaza con un banner personalizado)*
+![Banner de LiterAlura](./assets/banner.jpg)
 
 ## 🎯 Objetivo del Proyecto
 **LiterAlura** es un catálogo de libros interactivo que consume la API de Gutendex, permitiendo a los usuarios buscar, guardar y analizar libros y autores desde la consola. Desarrollado como parte de un desafío de programación, combina:
@@ -21,7 +20,7 @@
 ## 🛠️ Tecnologías Utilizadas
 | **Tecnología**       | **Uso**                                      | **Versión** |
 |----------------------|----------------------------------------------|-------------|
-| Java                 | Lenguaje principal                           | 17          |
+| Java                 | Lenguaje principal                           | 21          |
 | Spring Boot          | Framework para backend                       | 3.1         |
 | PostgreSQL           | Base de datos                                | 15          |
 | Hibernate/JPA        | Mapeo objeto-relacional (ORM)                | -           |
@@ -39,7 +38,7 @@ El proyecto se gestionó con **metodología ágil** usando un tablero Trello:
 
 ## 🚀 Instalación y Ejecución
 ### Requisitos Previos
-- Java 17
+- Java 21
 - PostgreSQL 15
 - Maven
 

@@ -10,14 +10,14 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LiteraluraApplication implements CommandLineRunner {
+public class LiterAluraApplication implements CommandLineRunner {
     @Autowired
     private LibroRepository repositoryLibro;
     @Autowired
     private AutorRepository repositoryAutor;
 
     public static void main(String[] args) {
-        SpringApplication.run(LiteraluraApplication.class, args);
+        SpringApplication.run(LiterAluraApplication.class, args);
     }
 
 
