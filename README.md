@@ -9,13 +9,13 @@
 - Buenas prácticas de Java y Spring Boot.
 
 ## 🌟 Características Principales
-| **Funcionalidad**               | **Descripción**                                                                 |
-|----------------------------------|---------------------------------------------------------------------------------|
-| 🔍 Búsqueda en API              | Obtén libros por título desde Gutendex.                                         |
-| 💾 Almacenamiento en PostgreSQL | Guarda libros y autores en una base de datos relacional.                        |
-| 🌍 Filtrado por idioma          | Español (`es`), Inglés (`en`), Francés (`fr`), Portugués (`pt`).               |
-| 📊 Estadísticas                 | Top 10 libros más descargados, autores vivos en un año.                         |
-| 🖥️ Interfaz intuitiva          | Menú de consola fácil de usar.                                                  |
+| **Funcionalidad**               | **Descripción**                                                  |
+|---------------------------------|------------------------------------------------------------------|
+| 🔍 Búsqueda en API              | Obtén libros por título desde Gutendex.                          |
+| 💾 Almacenamiento en PostgreSQL | Guarda libros y autores en una base de datos relacional.         |
+| 🌍 Filtrado por idioma          | Español (`es`), Inglés (`en`), Francés (`fr`), Portugués (`pt`). |
+| 📊 Estadísticas                 | Top 10 libros más descargados, autores vivos en un año.          |
+| 🖥️ Interfaz intuitiva          | Menú de consola fácil de usar.                                   |
 
 ## 🛠️ Tecnologías Utilizadas
 | **Tecnología**       | **Uso**                                      | **Versión** |
